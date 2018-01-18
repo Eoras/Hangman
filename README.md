@@ -1,30 +1,31 @@
 # Hangman by Eöras v1.0.0
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/PaulDSB/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square)](https://paypal.me/PaulDSB/)
 
-## About:
+About
 ------------
 This program is a mini-game from the hangman. It was created during an algorithmic exercise, and I formatted it to make it a functional program.
 
-## Demo:
+Demo
 ------------
 _Incoming . . ._
 
-## Languages used
+Languages used
 ------------
 [HTML 5][1], [CSS 3][2], [PHP][3], [BootSrap 4][4]
 
-## Installation
+Installation
 ------------
 You just need to start the index.php on a web server.
 
-## Screenshots:
+Screenshots:
 ------------
 ![Picture1](https://i.goopics.net/lQmPp.jpg)
 ![Picture1](https://i.goopics.net/EmOPD.jpg)
 ![Picture1](https://i.goopics.net/b2gaK.jpg)
 ![Picture1](https://i.goopics.net/WxQ5r.jpg)
 
-## Credit:
+Credit:
+------------
 * [Picture Hangman][5]
 
 [1]: https://www.w3.org/html/
