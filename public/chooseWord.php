@@ -3,7 +3,7 @@
 <form action="?changeWord" method="POST" class="d-inline ml-2">
     <div class="col-4 mx-auto">
         <input type="text" class="form-control text-center" id="changeWord" name="changeWord"
-               placeholder="Choise your word"
+               placeholder="Choose your word"
                autofocus>
     </div>
     <div class="row mt-3">
